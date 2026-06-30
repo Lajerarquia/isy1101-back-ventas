@@ -58,6 +58,4 @@ El pipeline se dispara automáticamente en cada push a `main`. Los pasos son:
 
 ## URL de acceso
 
-`http://<ALB_URL_AQUI>/ventas`
-
-<!-- TODO: reemplazar <ALB_URL_AQUI> con la URL real del ALB una vez creado en AWS (paso AWS-9) -->
+`http://alb-innovatech-1660336161.us-east-1.elb.amazonaws.com/ventas`
